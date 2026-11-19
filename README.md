@@ -2,7 +2,7 @@
 
 A one-minute screening tool that estimates the chance that an adult **without a known diabetes diagnosis** has **elevated HbA1c (5.7% or higher, the prediabetes range or above)**, using 12 questions anyone can answer at home. No lab, no needle.
 
-**Live website:** _[add the Streamlit link here]_
+**Live website:** https://hba1c-risk-check.streamlit.app
 
 Final project, Data Science bootcamp (WBS Coding School), November 2026.
 
