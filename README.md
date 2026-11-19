@@ -108,4 +108,4 @@ Check the model with European data, ask clinicians where the alert line should b
 
 ## Author
 
-Muhammed Naeem
+Dr. Muhammed Naeem
